@@ -4,3 +4,21 @@
 files.jsx
 secret.js
 apikeys.html
+
+
+
+git init -- to instiallise the work repository
+git add -- to add files to stage area
+git status -- to check the filed are added or status of files will be added
+git commit - to commit the changes("Try to use Presentance words")
+git log -- to see the what we given
+ls -a -- to see the all files inclusing hidden files in the reposiory
+git diff --- which files are modified
+git checkout -- to go to previous version 
+
+This all commands for the local repository 
+
+to push an existing project into github: 
+create a reposiory in the git.
+git remote add origin(origin means remote name, not mandoatry name, but conventional name) <URL from the github>
+git push -u origin master(master is a branch)
