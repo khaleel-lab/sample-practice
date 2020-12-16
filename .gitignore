@@ -1,0 +1,6 @@
+# for ignoring purpose 
+
+*.boom
+files.jsx
+secret.js
+apikeys.html
